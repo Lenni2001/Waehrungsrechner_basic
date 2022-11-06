@@ -1,0 +1,7 @@
+﻿  Währungsrechner_console_basic.cpp
+C:\Users\lennartsturm\source\repos\Währungsrechner_console_basic\Währungsrechner_console_basic.cpp(8,20): warning C4101: "Faktor": Unreferenzierte lokale Variable
+  Code wird generiert.
+  Previous IPDB not found, fall back to full compilation.
+  All 73 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Codegenerierung ist abgeschlossen.
+  Währungsrechner_console_basic.vcxproj -> C:\Users\lennartsturm\source\repos\Währungsrechner_console_basic\x64\Release\Währungsrechner_console_basic.exe
